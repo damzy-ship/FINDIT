@@ -1,0 +1,261 @@
+body{
+  font-family: Montserrat-black;
+  background-color: white;
+}
+h1{
+  font-family: Montserrat-black;
+  font-weight: 900;
+
+}
+
+p{
+  font-family: Montserrat-light;
+
+  font-size: 1.8rem;
+    font-weight: 900;
+}
+.me{
+  position: relative;
+  bottom: 200px;
+text-align: center;
+padding: 100px 10px;
+  border-radius: 10%;
+  line-height: 1.5;
+  background-image: url("images/blue-image.jpg");
+}
+.me-div{
+  padding: 0 140px;
+  color: white;
+}
+.reward-text{
+  text-align: left;
+  line-height: 1;
+  color: black;
+}
+.about-us-text{
+  font-weight: 900;
+  margin-top: 50px;
+   color: darkblue;
+}
+.us{
+  color: black;
+}
+.about-us-header{
+ color: darkblue;
+}
+.li-text{
+  font-family: Montserrat-light;
+  font-size: 1.8rem;
+  margin-top: 50px;
+}
+.red-tin {
+  padding: 0 30px;
+}
+.h2-text{
+font-size: 2.3rem;
+  font-weight: 900;
+}
+.testimonial-text{
+  letter-spacing: 0.01rem;
+}
+.top-section{
+  padding: 10%;
+  text-align: center;
+}
+.last-header{
+  text-align: center;
+}
+.slide-section{
+  color: white;
+  padding-top: 400px;
+}
+.second-level-text{
+  position: relative;
+  bottom: 420px;
+  padding: 0 10% 0;
+  text-align: center;
+}
+.suff{
+  position: relative;
+  bottom: 400px;
+}
+.new-image-div{
+  text-align: center;
+}
+.new-image{
+  border-radius: 10%;
+  height: 300px;
+  width: 400px;
+  text-align: center;
+}
+.about-project{
+  position: relative;
+  bottom:260px;
+background-image: url("images/blue-image.jpg");
+
+color: #fff;
+font-weight: 900;
+
+  padding: 100px 10%
+}
+.short-description{
+  background-color: #e0dede;
+  color: black;
+
+  margin-top: 50px;
+border-radius: 10%;
+  padding: 50px;
+}
+.contes{
+  margin-top: 35px;
+}
+.content{
+  margin-top : 50px;
+}
+.h2-content{
+  color: darkblue;
+}
+.red-text{
+  text-align: center;
+  color: red;
+}
+.const{
+  background-color:  #e0dede;
+  color: black;
+  padding: 50px;
+  margin-top: 100px;
+  border-radius: 7%
+}
+.about-project-content{
+  margin-top: 50px;
+}
+.colored-section{
+  text-align: center;
+  padding-left: 18%;
+  padding-right: 18%;
+  line-height: 1.5;
+  font-weight: 600;
+}
+.right-text{
+  text-align: right;
+  padding-left: 40px;
+}
+.left-text{
+  padding-right: 40px;
+}
+.middle-image{
+  height: 250px;
+  width: 250px;
+  border-radius: 20%;
+}
+.text{
+  margin-top: 30px;
+
+}
+.first-card{
+  height: 250px;
+  width: 250px;
+}
+.middle-section-text{
+  margin-top: 40px;
+
+}
+.black-stuff{
+  color: black;
+}
+.middle-text{
+  margin: 100px 50px;
+}
+.button-prev{
+  position: absolute;
+  left: 90px;
+  bottom: 50px;
+}
+.button-next{
+  position: absolute;
+  right: 90px;
+  bottom: 50px;
+}
+.middle-section{
+  height: auto;
+    background-color: #e0dede;
+  padding: 3% 10%;
+}
+.middle-section-header{
+  margin-top: 2%;
+  text-align: center;
+}
+.rewards-div{
+  position: relative;
+  bottom: 260px;
+  background-color: #e0dede;
+  text-align: center;
+  padding: 100px 50px 100px;
+  color: black;
+}
+.platinum-card{
+  width: 450px;
+  height: 260px;
+  border-radius: 10%;
+}
+.platinum-text{
+  line-height: 1;
+  color: black;
+}
+.reward-details{
+  background-image: url("images/blue-image.jpg");
+  position: relative;
+  bottom: 260px;
+  color: #fff;
+  padding : 100px 10% 50px;
+}
+.about-us{
+  position: relative;
+  bottom: 260px;
+  background-color:  #e0dede;
+  padding: 50px 13%;
+  text-align: center;
+}
+.reward-details-header{
+  text-align: center;
+}
+.reward-speech{
+  font-weight: 900;
+  line-height: 1.5;
+  margin-top: 50px;
+  padding: 0 50px 0
+}
+.platinum-image-container{
+   margin-top: 50px;
+
+}
+.reward-image-container{
+  margin: 50px 0 0;
+
+}
+.reward-heading{
+  text-align: center;
+}
+.reward-image{
+    height: 250px;
+    width: 90%;
+    border-radius: 10%;
+}
+.top-text{
+  color: #fff;
+  font-family: Montserrat-black;
+  font-weight: 900;
+  position:absolute;
+  top: 5%;
+  font-size: 3rem;
+  backface-visibility: hidden;
+  line-height: 1.5;
+}
+.top-section-image{
+  width: 100%;
+  height: 500px;
+  position: relative;
+}
+.cutting-edge{
+  color: darkblue;
+}
